@@ -24,8 +24,7 @@ O provedor de serviços pode acessar todos os seus horários por meio de uma int
 ## :books: Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
-- Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
-- Um dispositivo ou emulador iOS ou Android
+- Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL, MongoDB e Redis.
 
 ## :rocket: Começando
 ``` bash
