@@ -29,7 +29,7 @@ O provedor de serviços pode acessar todos os seus horários por meio de uma int
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone xxxxx
+  $ git clone https://github.com/vnmeirelles/GoBarber-Backend.git
 
   # Entrar no diretório:
   $ cd gobarber
