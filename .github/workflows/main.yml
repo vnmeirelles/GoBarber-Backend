@@ -7,9 +7,12 @@ on:
 jobs:
   build:
     runs-on: fedora:37
-    
+        
     steps: 
     - uses: actions/checkout@v2
+    
+    - name: SCP Command to Transfer Files
+      uses: appleboy/scp-action@v0.1.3
     
     - name: Setup Node.js environment
       uses: actions/setup-node@v3.6.0
